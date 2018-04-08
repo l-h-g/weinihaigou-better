@@ -97,7 +97,7 @@ http-server -P http://www.weinihaigou.com/
 
 <img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(11).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img%20(12).png" width="360" height="500"/>
 
-<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(13).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(14).png" width="360" height="500"/>
+<img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(13).png" width="360" height="500"/><img src="https://github.com/lvpangpang/weinihaigou/blob/master/pics/img(14).png" width="460" height="500"/>
 
 
 
